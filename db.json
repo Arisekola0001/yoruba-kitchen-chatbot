@@ -1,0 +1,83 @@
+{
+  "users": {
+    "a89442e8-8bbd-4104-a762-ff0b4ad640c0": {
+      "createdAt": 1759914034420,
+      "currentOrder": [],
+      "stage": "idle"
+    }
+  },
+  "orders": {
+    "ae628111-4e0c-41ab-83f9-b8d7a68fa73f": {
+      "id": "ae628111-4e0c-41ab-83f9-b8d7a68fa73f",
+      "items": [
+        {
+          "key": "2",
+          "name": "Moin-Moin (Steamed Bean Cake)",
+          "price": 1200,
+          "qty": 5,
+          "choices": {
+            "addOns": "Fish"
+          }
+        }
+      ],
+      "total": 6000,
+      "status": "paid",
+      "createdAt": 1759914156762
+    },
+    "2bfeb809-51f1-4a9e-acc0-2e9c1314feb4": {
+      "id": "2bfeb809-51f1-4a9e-acc0-2e9c1314feb4",
+      "items": [
+        {
+          "key": "2",
+          "name": "Moin-Moin (Steamed Bean Cake)",
+          "price": 1200,
+          "qty": 5,
+          "choices": {
+            "addOns": "Fish"
+          }
+        }
+      ],
+      "total": 6000,
+      "status": "paid",
+      "createdAt": 1759921620406
+    }
+  },
+  "history": {
+    "a89442e8-8bbd-4104-a762-ff0b4ad640c0": [
+      {
+        "id": "ae628111-4e0c-41ab-83f9-b8d7a68fa73f",
+        "items": [
+          {
+            "key": "2",
+            "name": "Moin-Moin (Steamed Bean Cake)",
+            "price": 1200,
+            "qty": 5,
+            "choices": {
+              "addOns": "Fish"
+            }
+          }
+        ],
+        "total": 6000,
+        "status": "paid",
+        "createdAt": 1759914156762
+      },
+      {
+        "id": "2bfeb809-51f1-4a9e-acc0-2e9c1314feb4",
+        "items": [
+          {
+            "key": "2",
+            "name": "Moin-Moin (Steamed Bean Cake)",
+            "price": 1200,
+            "qty": 5,
+            "choices": {
+              "addOns": "Fish"
+            }
+          }
+        ],
+        "total": 6000,
+        "status": "paid",
+        "createdAt": 1759921620406
+      }
+    ]
+  }
+}
